@@ -1,2 +1,5 @@
 # RPNStacker
-Atividade da disciplina de Compiladores (2022.1)
+
+Implementação de linguagem RPN Stacker (Reverse Polish Notation) em Java utilizando uma pilha como estrutura de dados.
+
+Disciplina: Teoria e Implementação de Linguagens Computacionais (IF688)
