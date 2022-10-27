@@ -6,4 +6,6 @@
 
 **Task 3**: Implementação de um RPNStacker Automatic / Regex Scanning com uso de tokens.
 
+**Task 4**: Implementação de um RPNStacker Postfix com leitura de IDs.
+
 Disciplina: Teoria e Implementação de Linguagens Computacionais (IF688)
